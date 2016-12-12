@@ -23,7 +23,7 @@ class GroovyTutTwo {
     // Slicing strings:
     def fullName = "John Marshall Somebody";
 
-    println(fullName[1..6]) // => "ohn M"
+    println(fullName[1..6]) // => "ohn Ma" because .. is inclusive
 
     /* Optionality */
 
