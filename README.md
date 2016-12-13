@@ -30,9 +30,9 @@ groovy -v
 
 ## Files
 
-<groovyNotesOne.groovy>
+[One](groovyNotesOne.groovy)
 
-<groovyNotesTwo.groovy>
+[Two](groovyNotesTwo.groovy)
 
 ## How to Run
 
