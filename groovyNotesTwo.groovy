@@ -1,4 +1,4 @@
-class GroovyTutTwo {
+class GroovyNotesTwo {
   static void main(String[] args) {
     // a string variable
     def vocation = 'doctor';

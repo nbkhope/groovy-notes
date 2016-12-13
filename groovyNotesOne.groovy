@@ -1,4 +1,4 @@
-class GroovyTut {
+class GroovyNotesOne {
   static void main(String[] args) {
     println("Hello World");
 
