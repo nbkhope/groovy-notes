@@ -34,6 +34,10 @@ groovy -v
 
 [Two](groovyNotesTwo.groovy)
 
+[Three](groovyNotesThree.groovy)
+
+[Four](groovyNotesFour.groovy)
+
 ## How to Run
 
 Just say groovy followed by the filename. For example:
