@@ -27,5 +27,27 @@ class groovyNotesFour {
     ]
     println anotherMap
 
+    // Ranges
+    def numbers = 1..10
+    def letters = 'a'..'z'
+    def reversedLetters = 'z'..'a'
+
+    println numbers
+    println letters
+    println reversedLetters
+
+    println numbers.class.name // => groovy.lang.IntRange
+    println letters.class.name // => groovy.lang.ObjectRange
+
+    // Size of a range
+    println numbers.size() // => 10
+    // Get an item from within the range
+    println numbers.get(2) // => 3
+    // Check whether value is within the range
+    println numbers.contains(10) // => true
+    // Get the first item in the range
+    println numbers.getFrom()
+    // Get the last item in the range
+    println numbers.getTo()
   }
 }
