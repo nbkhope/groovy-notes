@@ -50,6 +50,10 @@ Map Literals (aka Associative Arrays or Hash) and Ranges
 
 Switch Statement with Ranges and For-In Loops
 
+### [Six](groovyNotesSix.groovy)
+
+Functions/Methods and Closures (each, find, findAll, any, every, collect)
+
 ## How to Run
 
 Just say groovy followed by the filename. For example:
