@@ -17,5 +17,21 @@ class groovyNotesFive {
       default:
         println 'Adult'
     }
+
+    // Other than the classic for-loop, you can also
+    // use the for-in loop:
+    for (i in 1..5) { // note you didn't have to define i
+      printf '%d ', i
+    }
+    println()
+
+    for (j in [3, 4, 5]) {
+      printf '%d ', j
+    }
+    println()
+
+    // What is i and j?
+    // println "i is $i" // error
+    // println "j is $j" // error
   }
 }
