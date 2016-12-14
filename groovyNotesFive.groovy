@@ -33,5 +33,35 @@ class groovyNotesFive {
     // What is i and j?
     // println "i is $i" // error
     // println "j is $j" // error
+
+    // converting range to array:
+    println( (0..4).toArray() )
+
+    // Looping over a map
+    def people = [
+      35: 'John',
+      36: 'Angela',
+      ageLimit: 20
+    ]
+
+    for (person in people) {
+      // key
+      print person.key + " "
+      // value
+      println person.value
+    }
+
+    // you can also iterate over the values of a map
+    for (val in people.values()) {
+      print val + ' '
+    }
+    println()
+
+    // Iterating over characters
+    def sentence = 'This is cool'
+    for (character in sentence) {
+      print character + ' '
+    }
+    println()
   }
 }
