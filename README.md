@@ -30,13 +30,21 @@ groovy -v
 
 ## Files
 
-[One](groovyNotesOne.groovy)
+### [One](groovyNotesOne.groovy)
 
-[Two](groovyNotesTwo.groovy)
+Variable Definition and Basic Math Operators
 
-[Three](groovyNotesThree.groovy)
+### [Two](groovyNotesTwo.groovy)
 
-[Four](groovyNotesFour.groovy)
+Strings and Optionality
+
+### [Three](groovyNotesThree.groovy)
+
+User Input and (Array) Lists
+
+### [Four](groovyNotesFour.groovy)
+
+Map Literals (aka Associative Arrays or Hash) and Ranges
 
 ## How to Run
 
