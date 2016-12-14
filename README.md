@@ -46,6 +46,10 @@ User Input and (Array) Lists
 
 Map Literals (aka Associative Arrays or Hash) and Ranges
 
+### [Five](groovyNotesFive.groovy)
+
+Switch Statement with Ranges and For-In Loops
+
 ## How to Run
 
 Just say groovy followed by the filename. For example:
