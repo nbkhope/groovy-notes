@@ -54,6 +54,10 @@ Switch Statement with Ranges and For-In Loops
 
 Functions/Methods and Closures (each, find, findAll, any, every, collect)
 
+### [Random](random.md)
+
+Random Notes
+
 ## How to Run
 
 Just say groovy followed by the filename. For example:
