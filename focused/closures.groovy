@@ -17,6 +17,7 @@ def startTimer() {
 	return { println "${initialDate} - ${new Date()} : Elapsed time ${System.currentTimeMillis() - initialDate.time}" }
 }
 
+// Calling startTimer returns the closure
 def timer = startTimer()
 
 sleep 3000
